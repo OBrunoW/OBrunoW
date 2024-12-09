@@ -39,7 +39,14 @@ I'm a passionate developer with a love for technology and innovation. I have exp
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact" alt="OBrunoW" /></p>
+<p>
+    <a href="https://github.com/OBrunoW/github-readme-stats#gh-dark-mode-only">
+        <img align="center" src="https://github-readme-stats-beta-five-87.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="OBrunoW" />
+    </a>
+    <a href="https://github.com/OBrunoW/github-readme-stats#gh-light-mode-only">
+        <img align="center" src="https://github-readme-stats-beta-five-87.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="OBrunoW" />
+    </a>
+</p>
 
 ## Contact
 
