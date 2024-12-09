@@ -6,7 +6,7 @@ I'm a passionate developer with a love for technology and innovation. I have exp
 
 ## Technologies and Tools
 
-<table align="center" width="100%" style="table-layout: fixed; border-spacing: 20px;">
+<table align="start" width="100%">
   <tr>
     <td align="center" valign="top" width="20%">
       <h3 align="left">Programming Languages:</h3>
