@@ -6,9 +6,9 @@ I'm a passionate developer with a love for technology and innovation. I have exp
 
 ## Technologies and Tools
 
-<table align="start" width="100%">
+<table align="start" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td align="center" valign="top" width="20%">
+    <td align="center" valign="top" style="width: 16.66%; border: 1px;">
       <h3 align="left">Languages</h3>
       <p align="left">
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         </a>
       </p>
     </td>
-    <td align="center" valign="top" width="20%">
+    <td align="center" valign="top" style="width: 16.66%; border: 1px ;">
       <h3 align="left">Frameworks</h3>
       <p align="left">
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -36,7 +36,7 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         </a>
       </p>
     </td>
-    <td align="center" valign="top" width="20%">
+    <td align="center" valign="top" style="width: 16.66%; border: 1px ;">
       <h3 align="left">Tools</h3>
       <p align="left">
         <a href="https://github.com" target="_blank" rel="noreferrer">
@@ -48,12 +48,12 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         <a href="https://www.figma.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
         </a>
-         <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
       </p>
     </td>
-    <td align="center" valign="top" width="20%">
+    <td align="center" valign="top" style="width: 16.66%; border: 1px ;">
       <h3 align="left">SDK</h3>
       <p align="left">
         <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         </a>
       </p>
     </td>
-    <td align="center" valign="top" width="20%">
+    <td align="center" valign="top" style="width: 16.66%; border: 1px ;">
       <h3 align="left">Databases</h3>
       <p align="left">
         <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
@@ -75,19 +75,20 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         </a>
       </p>
     </td>
-    <td align="center" valign="top" width="20%">
-        <h3 align="left">SO</h3>
-        <p align="left">
-            <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-            </a>
-            <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            </a>
-        </p>
+    <td align="center" valign="top" style="width: 16.66%; border: 1px ;">
+      <h3 align="left">OS</h3>
+      <p align="left">
+        <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+        </a>
+        <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 
 
